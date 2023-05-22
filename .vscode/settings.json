@@ -1,0 +1,21 @@
+{
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact"
+    ],
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true,
+    },
+    "[javascript]": {
+        "editor.tabSize": 2
+    },
+    "[typescript]": {
+        "editor.tabSize": 2
+    },
+    "[json]": {
+        "editor.tabSize": 2
+    },
+    "editor.insertSpaces": true
+}
